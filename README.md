@@ -48,8 +48,8 @@ This project is a web-based implementation of the classic word game Scrabble, bu
 
 ## Project Structure
 
-*   `client/`: Contains the frontend code (HTML, CSS, JavaScript).
-*   `server/`: Contains the backend code (Node.js, Express).
+*   `src/client/`: Contains the frontend code (HTML, CSS, JavaScript).
+*   `src/server/`: Contains the backend code (Node.js, Express).
 *   `readme.md`: This file.
 
 ## Key Components
