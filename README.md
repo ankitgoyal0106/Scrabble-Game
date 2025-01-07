@@ -22,7 +22,7 @@ This project is a web-based implementation of the classic word game Scrabble, bu
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd Scrabble-Multiplayer-Game
+    cd Scrabble-Game
     ```
 3.  **Install server dependencies:**
     ```bash
