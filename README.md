@@ -18,7 +18,7 @@ This project is a web-based implementation of the classic word game Scrabble, bu
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Aditya-Singh03/Scrabble-Multiplayer-Game.git
+    git clone https://github.com/ankitgoyal0106/Scrabble-Game.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
